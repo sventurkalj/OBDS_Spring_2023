@@ -1,2 +1,5 @@
 # OBDS_Spring_2023
-OBDS training
+
+OBDS course - Spring 2023 
+
+This line was typed in on Github.
